@@ -1,1 +1,1 @@
-const key = "AKIAZZZZ••••••••••••";
+const key = "AKIAZZZsegzdsgbfzsaergazs";
